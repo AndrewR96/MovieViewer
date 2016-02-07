@@ -40,7 +40,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-I think this project really gave me an idea of how I need to prepare harder for the next upcomming projects. The optionals were some what diffuclt for me to break down, since i'm still transitioning into swift. I have come to the conclusion that the only way I would get better is if I give myself time to undertand and practice the language. 
+I think this project really gave me an idea of how I need to prepare harder for the next upcomming projects. The optionals were some what difficult for me to break down, since i'm still transitioning into swift. I have come to the conclusion that the only way I would get better is if I give myself time to undertand and do the projcts, and practice the language. 
 
 Describe any challenges encountered while building the app.
 
