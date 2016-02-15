@@ -36,7 +36,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I had a really huge issue regarding git. It so happened that my project was hidden in a other repo and it couldnt be pushed to my github. My mentor Mathew Mo had to walk me through the whole procress step by step in transfering and moving files over to merge, and evtually be able to create a new branch to push everything on my git. It was in result of this technical issue that caused my assigment to not be submitted on the appropirate time. Please forigve me for any inconvenience I might've caused. 
 
 ## License
 
